@@ -6,7 +6,7 @@ This is a cricket net run rate (NRR) calculator made in Python.
 
 ## Formula
 
-> The Formula for calculating the NRR for any team is as following: 
+> The formula for calculating the NRR for any team is as following: 
 > Net Run Rate = (Total Runs Scored ÷ Total Overs Faced) – (Total Runs Conceded ÷ Total Overs Bowled)
 
 >Where:
