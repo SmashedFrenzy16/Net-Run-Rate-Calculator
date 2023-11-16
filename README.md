@@ -16,3 +16,7 @@ This is a cricket net run rate (NRR) calculator made in Python.
 >- “Total Runs Conceded” is the number of runs conceded by the team (it is also the number of runs scored by the opposing team).
 >- “Total Overs Bowled” is the number of overs bowled by the team (it is also the number of overs faced by the opposing team).
 >- Net Run Rate can be calculated for a match or a tournament.
+
+## Implementation
+
+Run `python3 net_run_rate_calc.py` in a terminal if you have Python 3.
